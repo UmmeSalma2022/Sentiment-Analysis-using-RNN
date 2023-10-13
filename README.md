@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-RRN
+# Sentiment-Analysis-using-RNN
 
 Sentiment Analysis: Analyze the sentiment of text data, such as customer reviews or social media posts, using LSTM to determine positive, negative sentiments. 
 
